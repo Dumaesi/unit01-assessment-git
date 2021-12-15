@@ -1,0 +1,23 @@
+Script started on 2021-12-08 22:24:17+00:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="148" LINES="37"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ mkdir folder1
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ mkdir folder1[K2
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ touch file1.txt
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ touch file1.txt[1P.txt2.txt
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ touch file2.txt[1P.txt3.txt
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ mv file1.txt folder1
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ mv file1.txt folder1[K2[1P[1@2
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ cd ..[K[K[K folder1
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git/folder1[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git/folder1[00m$ ls
+[0m[01;32mfile1.txt[0m
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git/folder1[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git/folder1[00m$ cat file1.txt
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git/folder1[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git/folder1[00m$ dir
+file1.txt
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git/folder1[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git/folder1[00m$ cd ..
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ rm file.[K3.txt
+]0;esi_duma@LAPTOP-T603VAI3: /mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[01;32mesi_duma@LAPTOP-T603VAI3[00m:[01;34m/mnt/c/Users/ccuk/Blackcodher_bootcamp/unit01-assessment-git[00m$ exit
+exit
+
+Script done on 2021-12-08 22:31:55+00:00 [COMMAND_EXIT_CODE="0"]
